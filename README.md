@@ -1,5 +1,3 @@
-# coder_test_1
-
 Simple test to assess coding style.
 
 1. Clone repo
